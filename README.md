@@ -48,10 +48,10 @@ How to run the project
 
 ### Prerequisites
 
-Before starting, you will need to have the following tools installed on your machine:
-[Git](https://git-scm.com),
-[Node.js](https://nodejs.org/en/) (which comes with [npm](http://npmjs.com/)) .
-Besides, it's nice to have an editor to work with code like [VSCode](https://code.visualstudio.com/)
+Before starting, you will need to have the following tools installed on your machine:</br>
+- [Git](https://git-scm.com),</br>
+- [Node.js](https://nodejs.org/en/) (which comes with [npm](http://npmjs.com/)) .</br>
+- Besides, it's nice to have an editor to work with code like [VSCode](https://code.visualstudio.com/)
 
 ### 🖥 Environment Support
 
