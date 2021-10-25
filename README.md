@@ -75,6 +75,9 @@ $ cd borges-bank
 # Install dependencies
 $ npm install
 
+# If you are using VS code and have the auto open set up, then you can type this to automatically open your code editor
+code .
+
 # Run the application in development mode
 $ npm start
 
