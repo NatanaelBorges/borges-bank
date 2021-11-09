@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MenuLink /> should render open in a new tab 1`] = `
+<a
+  class=""
+  href="http://localhost"
+  target="_self"
+>
+  Children
+</a>
+`;
